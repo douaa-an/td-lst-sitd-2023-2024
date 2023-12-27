@@ -1,4 +1,4 @@
-/*package douaaanoura.td2;
+package douaaanoura.td2;
 
 public class ex3 {
 
@@ -127,4 +127,3 @@ public class ex3 {
         }
     }
 }
-*/

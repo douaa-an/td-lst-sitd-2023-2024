@@ -1,12 +1,14 @@
-package douaaanoura.td2;
+/* package douaaanoura.td2;
 
 public class ex1 {
-    public static void main(String[] args) {
-        Point pt = new Point('A', 5.0);
-        pt.affiche();
-        pt.translate(2.0);
-        pt.affiche();
+    public static void main2(String[] args) {
+       // Point pt = new Point('A', 5.0);
+       // pt.affiche();
+      //  pt.translate(2.0);
+      //  pt.affiche();
+
     }
+
     class Point {
         char name;
         double abscisse;
@@ -28,3 +30,4 @@ public class ex1 {
 
 
 }
+*/
